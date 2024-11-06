@@ -1,6 +1,7 @@
 <script setup>
+import TextInput from './TextInput.vue'
 </script>
 
 <template>
- <div></div>
+ <TextInput/>
 </template>
